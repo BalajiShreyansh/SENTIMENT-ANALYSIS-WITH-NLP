@@ -23,3 +23,8 @@ Once preprocessing is completed, TF-IDF (Term Frequency–Inverse Document Frequ
 After vectorization, the dataset is divided into training and testing sets using the train_test_split() function. The training data is used to train the Logistic Regression model, while the testing data is used to evaluate the model’s performance on unseen reviews. Logistic Regression is a supervised machine learning algorithm commonly used for text classification tasks because of its simplicity, efficiency, and high performance in binary classification problems.
 The model is trained using the fit() method and predictions are generated using the predict() function. The predicted sentiments are then compared with the actual sentiments to evaluate the performance of the model. Different evaluation metrics such as accuracy score, confusion matrix, precision, recall, and F1-score are used to measure the effectiveness of the classifier.
 Finally, the project showcases how NLP and machine learning techniques can be combined to perform automated sentiment analysis on customer reviews. The implementation demonstrates the practical use of TF-IDF vectorization and Logistic Regression in solving real-world text classification problems. This project provides a clear understanding of data preprocessing, feature extraction, machine learning modeling, and sentiment evaluation using Python and Scikit-learn.
+
+
+
+OUTPUT:
+<img width="1109" height="380" alt="Image" src="https://github.com/user-attachments/assets/2b3d8746-83df-4adb-8df7-6f1066cb1b56" />
